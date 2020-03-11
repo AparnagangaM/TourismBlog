@@ -1,0 +1,139 @@
+header{
+    height:50px;
+    border: 1px solid;
+}
+nav
+{
+     height:45px;
+    border:1px solid;
+    position: sticky;
+}
+aside{
+     height:475px;
+    border:1px solid;
+width: 100%;
+}
+footer{
+    height:50px;
+    border: 1px solid;
+}
+a{
+    text-decoration:none;
+}
+#btn1{
+    width: 80px;
+    height: 30px;
+    margin-top: 7px;
+    margin-left: 60px
+}
+#btn2{
+    width: 80px;
+    height: 30px;
+    margin-top: 7px;
+    margin-left:230px;
+}
+#btn3{
+    width: 80px;
+    height: 30px;
+    margin-top: 7px;
+    margin-left: 300px
+}
+#btn4{
+    width: 85px;
+    height: 30px;
+    margin-top: -130px;
+    margin-left:380px;
+}
+
+
+#row1{
+    border: px solid ;
+    width: 100%;
+    height:220px;
+    }
+#row2{
+    border: 1px solid ;
+    width: 100%;
+    height:220px;
+    }
+#row3{
+    border: 1px solid ;
+    width: 100%;
+    height:220px;
+    }
+#row4{
+    border: 1px solid ;
+    width: 100%;
+    height:220px;
+    }
+#sec1{
+    width:24%;
+    height:215px;
+    border:1px solid ;
+    margin-left: 8px
+    
+}
+
+#sec2{
+    width:24%;
+    height:215px;
+    border:1px solid;
+    margin-left: 340px;
+    margin-top: -215px;
+}
+#sec3{
+    width:24%;
+    height:215px;
+    border:1px solid;
+    margin-left: 670px;
+    margin-top: -215px;
+}
+#sec4{
+width:24%;
+    height:215px;
+    border:1px solid;
+    float: right;
+    margin-right: 10px;
+    margin-top: -220px;
+}
+img:hover{
+    transform: skewX(180deg);
+    transition-duration: 10s
+}
+    body{
+        background-color:  #4d94ff;
+        }
+   button:hover{
+    background-color:  #0066ff
+}
+
+        
+        p{
+            text-align: justify;
+            padding-left: 10px;
+            padding-right: 10px;
+            line-height:40px
+        }
+        #contenthead{
+            width: 100%;
+            height: 40px;
+            border: 1px solid ;
+            
+        }
+         #content1{
+            width: 40%;
+            height: 420px;
+            border: 1px solid ;
+             margin-left: 5px;
+             margin-top: 7px
+            
+        }
+         #content2{
+            width: 59%;
+            height: 420px;
+            border: 1px solid ;
+            margin-left: 550px;
+             margin-top: -422px
+            
+        }
+      

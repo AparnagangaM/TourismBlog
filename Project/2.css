@@ -1,0 +1,64 @@
+header{
+    height:50px;
+    border: 1px solid;
+}
+nav
+{
+     height:45px;
+    border:1px solid;
+
+}
+section{
+     height:480px;
+    border:1px solid;
+    width: 49%
+
+}
+aside{
+     height:480px;
+    border:1px solid;
+width: 50%;
+    float:right;
+    margin-top: -482px
+}
+footer{
+    height:50px;
+    border: 1px solid;
+}
+a{
+    text-decoration:none;
+}
+body{
+        background-color:  #4d94ff;
+        }
+   button:hover{
+    background-color:  #0066ff
+}
+img:hover{
+    transform: rotateX(180deg);
+    transition-duration: 10s
+}
+#btn1{
+    width: 80px;
+    height: 30px;
+    margin-top: 7px;
+    margin-left: 60px
+}
+#btn2{
+    width: 80px;
+    height: 30px;
+    margin-top: 7px;
+    margin-left:230px;
+}
+#btn3{
+    width: 80px;
+    height: 30px;
+    margin-top: 7px;
+    margin-left: 300px
+}
+#btn4{
+    width: 85px;
+    height: 30px;
+    margin-top: -130px;
+    margin-left:380px;
+}
